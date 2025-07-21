@@ -98,7 +98,4 @@ git reset --hard 81c70fe
 26.檢視所有歷程
 git reflog
 
-
-
-
-
+27.
